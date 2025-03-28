@@ -17,3 +17,6 @@ shakira | no, me caes mal
 mc quin | si
 paquita la del barrio| no
 
+```git add README.md```
+```git commit -m "add readme""```
+```git push origin main```
